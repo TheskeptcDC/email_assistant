@@ -1,4 +1,4 @@
-Here’s a well-structured `README.md` for your **email summarizer desktop app using FastAPI, Gmail API, and Ollama**:
+**email summarizer desktop app using FastAPI, Gmail API, and Ollama**:
 
 ---
 
